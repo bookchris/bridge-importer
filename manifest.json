@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Freebridge Importer",
+  "description": "Capture and store duplicate bridge hands",
+  "version": "1.0",
+  "permissions": ["identity"],
+  "action": {
+    "default_popup": "hello.html"
+  }
+}
